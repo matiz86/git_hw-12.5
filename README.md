@@ -22,6 +22,9 @@ where date(p.payment_date) = '2005-07-30' and p.payment_date = r.rental_date and
 ![alt text](https://github.com/matiz86/git_hw-12.5/blob/main/Screenshot_1.jpg)
 
 перечислите узкие места;
+
+Узкие места наблюдаются в момент использования оконных функций OVER и PARTITION BY.Много сравнений в WHERE.
+
 оптимизируйте запрос: внесите корректировки по использованию операторов, при необходимости добавьте индексы.
 
 
