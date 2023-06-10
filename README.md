@@ -27,8 +27,8 @@ where date(p.payment_date) = '2005-07-30' and p.payment_date = r.rental_date and
 
 оптимизируйте запрос: внесите корректировки по использованию операторов, при необходимости добавьте индексы.
 
+UPDATE: Подкорректировал.
 
-![alt text](https://github.com/matiz86/git_hw-12.5/blob/main/Screenshot_2.jpg)
-
+![alt text](https://github.com/matiz86/git_hw-12.5/blob/main/Screenshot_11.jpg)
 
 
